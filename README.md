@@ -1,7 +1,8 @@
 # Apigo-and-Oono-2018
 
-11.	Appendix  
-Supplementary material and reproducible code for bioinformatic processing, sequence removal and host specificity measurements can be accessed on Github at https://github.com/austenapigo.
+Appendix for Apigo and Oono (2018) Host Specificity in Foliar Fungal Endophytes 
+
+Supplementary material and reproducible code for bioinformatic processing, sequence removal and host specificity measurements.
 
 Appendix A. Bioinformatic pipeline using USEARCH (version 9.2.64; Edgar 2010), BLAST+ (Camacho et al. 2008), MEGAN (Huson et al. 2007) and QIIME (Caporaso et al. 2010).
 
